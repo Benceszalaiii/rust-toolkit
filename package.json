@@ -19,6 +19,7 @@
     "dustypomerleau.rust-syntax",
     "rust-lang.rust-analyzer",
     "usernamehw.errorlens",
-    "Gruntfuggly.todo-tree"
+    "Gruntfuggly.todo-tree",
+    "GitHub.copilot"
   ]
 }
