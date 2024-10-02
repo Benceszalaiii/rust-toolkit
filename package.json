@@ -1,0 +1,24 @@
+{
+  "name": "rust-toolkit",
+  "displayName": "rust-toolkit",
+  "author": "Benceszalaiii",
+  "repository": "https://www.github.com/Benceszalaiii/rust-toolkit",
+  "description": "A good base for solid rust generic development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "fill-labs.dependi",
+    "tamasfe.even-better-toml",
+    "jinxdash.prettier-rust",
+    "lorenzopirro.rust-flash-snippets",
+    "dustypomerleau.rust-syntax",
+    "rust-lang.rust-analyzer",
+    "usernamehw.errorlens",
+    "Gruntfuggly.todo-tree"
+  ]
+}
