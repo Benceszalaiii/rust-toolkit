@@ -2,6 +2,7 @@
   "name": "rust-toolkit",
   "displayName": "rust-toolkit",
   "author": "Benceszalaiii",
+  "publisher": "Benceszalaiii",
   "repository": "https://www.github.com/Benceszalaiii/rust-toolkit",
   "description": "A good base for solid rust generic development",
   "version": "0.0.1",
